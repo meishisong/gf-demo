@@ -5,4 +5,6 @@ Git flow / Hub flow tutorial demo
 
     git hf init
 
-You should use personal access token
+You should use personal access token.
+
+### fix something when release
