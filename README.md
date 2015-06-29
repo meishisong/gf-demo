@@ -8,3 +8,6 @@ Git flow / Hub flow tutorial demo
 You should use personal access token.
 
 ### fix something when release
+
+
+## GF INIT
